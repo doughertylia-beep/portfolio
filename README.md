@@ -30,4 +30,4 @@
 - Empirically identified a link between U.S. exceptionalist rhetoric and reinvestment in the military-industrial complex using a two-stage approach<br>
 - Disseminated findings in clear, audience-appropriate formats to both technical and non-technical stakeholders<br>
 
-
+(assets/Screen Shot 2025-08-28 at 5.35.01 PM.png)
