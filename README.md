@@ -1,8 +1,7 @@
-# Aspiring Data Analyst 
+#Data Analyst 
 
 ### Education 
 ● B.S. Economics | Davidson College (August 2021 - May 2025)
-
 
 ###Technical Skills 
 ● SQLite, PowerBI, MS Excel, Python, R Studio, Stata
@@ -11,7 +10,6 @@
 Economics Research Assistant @ Davidson College
 ● Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive <br>
 ● Applied NLP libraries for tokenization, lemmatization, and keyword extraction <br>
-● Applied generative AI to extract rhetorical insights <br>
 ● Developed data-driven visualizations in R and Python to communicate key findings effectively <br>
 
 Data Analyst Intern @ DEI Directive
@@ -19,17 +17,16 @@ Data Analyst Intern @ DEI Directive
 ● Applied reshaping, merging, and normalization techniques to create benchmarking datasets for DEI software <br>
 
 Stats & Basic Econometrics Embedded Tutor @ Davidson College
-● Guided students in statistical modeling and data software, translating complex concepts for student learning <br>
+● Guided students in statistical modeling, data software, and complex statistical concepts <br>
 ● Adapted teaching strategies to diverse learning styles, reinforcing both technical skills and confidence in data literacy <br>
 ● Covered topics such as: descriptive stats, linear regression, hypothesis testing, probability, and residual analysis<br>
 
 ### Projects
-Economics Honors Thesis<br>
+Economics Honors Thesis <br>
 U.S. Imperialist Violence, Presidential Rhetoric, and the Military-Industrial Complex”<br>
-● Web-scrapped, cleaned, and normalized 28,000+ U.S. presidential speeches<br>
-● Applied advanced data wrangling with regular expressions for pattern detection in text<br>
+● Web-scrapped, cleaned, and normalized 28,000+ U.S. presidential speeches <br>
 ● Developed NLP pipelines incorporating LDA topic modeling, GloVe word embeddings, and K-means clustering to reveal thematic and semantic trends <br>
-● Empirically identified a link between U.S. exceptionalist rhetoric and reinvestment in the Military-Industrial Complex using a two-stage approach <br>
+● Empirically identified a link between U.S. exceptionalist rhetoric and reinvestment in the military-industrial complex using a two-stage approach <br>
 ● Disseminated findings in clear, audience-appropriate formats to both technical and non-technical stakeholders <br>
 
 
