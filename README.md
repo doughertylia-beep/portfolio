@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## Education 
-- B.S. Economics| Davidson College (August 2021 - May 2025)
+- B.S. Economics | Davidson College (August 2021 - May 2025)
 <br>
 
 ## Technical Skills 
