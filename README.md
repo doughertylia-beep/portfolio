@@ -1,13 +1,13 @@
-## Data Analyst Portfolio
+# Data Analyst Portfolio
 
-# Education 
+## Education 
 - B.S. Economics| Davidson College (August 2021 - May 2025)
 <br> 
-# Technical Skills 
+## Technical Skills 
 - SQLite, PowerBI, MS Excel, Python, R Studio, Stata
 <br> 
 
-# Work Experience
+## Work Experience
 ***Economics Research Assistant @ Davidson College*** <br>
 - Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive<br>
 - Applied NLP libraries for tokenization, lemmatization, and keyword extraction<br>
@@ -23,7 +23,7 @@
 - Covered topics such as: descriptive stats, linear regression, hypothesis testing, probability, and residual analysis<br>
 <br> 
 
-# Projects<br>
+## Projects<br>
 ***Economics Honors Thesis***<br>
 - Web-scrapped, cleaned, and normalized 28,000+ U.S. presidential speeches<br>
 - Developed NLP pipelines incorporating LDA topic modeling, GloVe word embeddings, and K-means clustering to reveal thematic and semantic trends<br>
