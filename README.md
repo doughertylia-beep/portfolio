@@ -6,6 +6,8 @@
 ## Technical Skills 
 - SQLite, PowerBI, MS Excel, Python, R Studio, Stata
 
+  
+
 ## Work Experience
 ***Economics Research Assistant @ Davidson College*** <br>
 - Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive<br>
@@ -20,6 +22,8 @@
 - Guided students in statistical modeling, data software, and complex statistical concepts<br>
 - Adapted teaching strategies to diverse learning styles, reinforcing both technical skills and confidence in data literacy<br>
 - Covered topics such as: descriptive stats, linear regression, hypothesis testing, probability, and residual analysis<br>
+
+
 
 ## Projects<br>
 ***Economics Honors Thesis***<br>
