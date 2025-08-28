@@ -1,12 +1,11 @@
 ## Data Analyst Portfolio
 
 ## Education 
-- B.S. Economics | Davidson College (August 2021 - May 2025)
+- B.S. Economics| Davidson College (August 2021 - May 2025)
 
 ## Technical Skills 
 - SQLite, PowerBI, MS Excel, Python, R Studio, Stata
-
-  
+<br> 
 
 ## Work Experience
 ***Economics Research Assistant @ Davidson College*** <br>
@@ -22,8 +21,7 @@
 - Guided students in statistical modeling, data software, and complex statistical concepts<br>
 - Adapted teaching strategies to diverse learning styles, reinforcing both technical skills and confidence in data literacy<br>
 - Covered topics such as: descriptive stats, linear regression, hypothesis testing, probability, and residual analysis<br>
-
-
+<br> 
 
 ## Projects<br>
 ***Economics Honors Thesis***<br>
