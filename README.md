@@ -7,6 +7,9 @@ Bachelor of Arts in Economics, Minor in English
 ● Omicron Delta Epsilon: International Honor Society for Economics
 ● Kelly Chaston Award: Application of economics to promote equity and improve societal well-being
 
+###Technical Skills 
+● SQLite, PowerBI, MS Excel, Python, R Studio, Stata
+
 ### Work Experience
 Research Assistant for Dr. Angela Cools @ Davidson College
 ● Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive
