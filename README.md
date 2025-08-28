@@ -11,7 +11,7 @@
 ## Work Experience
 ***Economics Research Assistant @ Davidson College*** <br>
 - Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive<br>
-- Applied **NLP libraries** for tokenization, lemmatization, and keyword extraction<br>
+- Applied NLP libraries for tokenization, lemmatization, and keyword extraction<br>
 - Developed data-driven visualizations in R and Python to communicate key findings effectively<br>
 - Summarized and synthesized key research papers and policy reports to map prior literature<br>
 
@@ -31,7 +31,7 @@
 - Developed* NLP pipelines incorporating LDA topic modeling, GloVe word embeddings, and K-means clustering to reveal thematic and semantic trends<br>
 - Empirically identified a link between U.S. exceptionalist rhetoric and reinvestment in the military-industrial complex using a two-stage approach<br>
 - Disseminated findings in clear, audience-appropriate formats to both technical and non-technical stakeholders<br>
-
+🔗 [View the full repository](https://github.com/doughertylia-beep/thesis.git)<br>
 
 ***Sermon Webscraping Project***
 - This project web-scraped, cleaned, and normalized 180,000+ sermon transcripts from a public archive using Python<br>
