@@ -12,6 +12,7 @@
 - Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive<br>
 - Applied NLP libraries for tokenization, lemmatization, and keyword extraction<br>
 - Developed data-driven visualizations in R and Python to communicate key findings effectively<br>
+- Summarized and synthesized key research papers and policy reports to map prior literature<br>
 
 ***Data Analyst Intern @ DEI Directive*** <br>
 - Entered, validated, and analyzed EEO-1, ESG, and CR data to support DEI-driven business decisions<br>
@@ -30,5 +31,10 @@
 - Empirically identified a link between U.S. exceptionalist rhetoric and reinvestment in the military-industrial complex using a two-stage approach<br>
 - Disseminated findings in clear, audience-appropriate formats to both technical and non-technical stakeholders<br>
 
-![Thesis Graph](assets/thesis_viz.png)
+
+***Sermon Webscraping Project***
+- This project web-scraped, cleaned, and normalized **180,000+ sermon transcripts** from a public archive using Python
+🔗 [View the full repository](https://github.com/doughertylia-beep/sermon_project.git)
+
+
 
