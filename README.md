@@ -2,7 +2,7 @@
 
 # Education 
 - B.S. Economics| Davidson College (August 2021 - May 2025)
-
+<br> 
 # Technical Skills 
 - SQLite, PowerBI, MS Excel, Python, R Studio, Stata
 <br> 
