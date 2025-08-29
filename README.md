@@ -34,6 +34,8 @@
 - Web-scraped, cleaned, and normalized 180,000+ sermon transcripts from a public archive using Python<br>
 -Conducted graphical analyses of sermon keywords pertaining to civic participation, examined in relation to the timing of midterm and presidential elections<br>
 🔗 [View the full repository](https://github.com/doughertylia-beep/sermon_project.git)<br>
+<img src="assets/screenshot-2025-08-29.png" alt="Screenshot" width="300">
+
 
 
 
