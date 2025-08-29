@@ -5,7 +5,7 @@
 <br>
 
 ## Technical Skills 
-- SQLite, PowerBI, MS Excel, Python, R Studio, Stata
+- SQLite, Power BI, MS Excel, Python, R Studio, Stata
 <br> 
 
 ## Work Experience
