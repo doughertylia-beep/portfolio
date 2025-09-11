@@ -35,11 +35,12 @@
 - Conducted graphical analyses of sermon keywords pertaining to civic participation, examined in relation to the timing of midterm and presidential elections<br>
 🔗 [View the full repository](https://github.com/doughertylia-beep/sermon_project.git)<br>
 
-***Power BI Dashboard***
+***Power BI Crime Report Dashboard***
 - Designed and developed an interactive crime reporting dashboard in Power BI<br>
 - Incorporated dynamic filters, charts, and ArcGIS map to enable intuitive data exploration<br>
 - Applied Figma-inspired design principles to enhance usability and visual appeal<br>
 🔗 [View the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjc0NDg2ZmItMzcyNC00NjFiLTlmOTctN2FjMzM3NjRkNTFkIiwidCI6IjM1ZDg3NjNjLWQyYjEtNDIxMy1iNjI5LWY1ZGYwYWY5ZTNjMyIsImMiOjF9)<br>
 
-logo: "assets/Screen Shot 2025-09-11 at 5.30.25 PM.png"
+![Pic](assets/Screen%20Shot%202025-09-11%20at%205.30.25%20PM.png)
+
 
