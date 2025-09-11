@@ -41,7 +41,8 @@
 - Applied Figma-inspired design principles to enhance usability and visual appeal<br>
 🔗 [View the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmFmYjRhMjMtODcyMi00YzdlLThkNmMtMTU5ZWQ0Y2E2MWU1IiwidCI6IjM1ZDg3NjNjLWQyYjEtNDIxMy1iNjI5LWY1ZGYwYWY5ZTNjMyIsImMiOjF9)<br>
 
-![Power BI Dashboard](assets/powerbi.png)
+
+![Power BI Dashboard](https://raw.githubusercontent.com/dougherty-lia-beep/portfolio/assets/powerbi.png)
 
 
 
