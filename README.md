@@ -41,6 +41,5 @@
 - Applied Figma-inspired design principles to enhance usability and visual appeal<br>
 🔗 [View the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjc0NDg2ZmItMzcyNC00NjFiLTlmOTctN2FjMzM3NjRkNTFkIiwidCI6IjM1ZDg3NjNjLWQyYjEtNDIxMy1iNjI5LWY1ZGYwYWY5ZTNjMyIsImMiOjF9)<br>
 
-
-
+logo: "assets/Screen Shot 2025-09-11 at 5.30.25 PM.png"
 
