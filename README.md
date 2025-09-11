@@ -36,10 +36,10 @@
 🔗 [View the full repository](https://github.com/doughertylia-beep/sermon_project.git)<br>
 
 ***Power BI Dashboard***
-- Designed and developed an interactive sales dashboard in Power BI<br>
-- Incorporated dynamic filters, sliders, line charts, and donut graphs to enable intuitive data exploration<br>
+- Designed and developed an interactive crime reporting dashboard in Power BI<br>
+- Incorporated dynamic filters, charts, and ArcGIS map to enable intuitive data exploration<br>
 - Applied Figma-inspired design principles to enhance usability and visual appeal<br>
-🔗 [View the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmFmYjRhMjMtODcyMi00YzdlLThkNmMtMTU5ZWQ0Y2E2MWU1IiwidCI6IjM1ZDg3NjNjLWQyYjEtNDIxMy1iNjI5LWY1ZGYwYWY5ZTNjMyIsImMiOjF9)<br>
+🔗 [View the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjc0NDg2ZmItMzcyNC00NjFiLTlmOTctN2FjMzM3NjRkNTFkIiwidCI6IjM1ZDg3NjNjLWQyYjEtNDIxMy1iNjI5LWY1ZGYwYWY5ZTNjMyIsImMiOjF9)<br>
 
 
 
