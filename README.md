@@ -40,7 +40,7 @@
 - Applied first-differencing transformations to achieve stationarity and validated results using KPSS tests
 - Implemented a stepwise automated search to identify the optimal ARIMAX model for GDP forecasting, incorporating Residential Building Permits and Consumer Confidence Index as exogenous predictors
 - Evaluated model performance through residual diagnostics, including ACF/PACF inspections and the Ljung–Box test, to ensure model adequacy and independence of residuals
-🔗 [View the full repository] https://github.com/doughertylia-beep/forecasting.git <br>
+🔗 [View the full repository](https://github.com/doughertylia-beep/forecasting.git)<br>
 
 ***Power BI Crime Report Dashboard***
 - Designed and developed an interactive crime reporting dashboard in Power BI<br>
