@@ -35,11 +35,11 @@
 - Conducted graphical analyses of sermon keywords pertaining to civic participation, examined in relation to the timing of midterm and presidential elections<br>
 🔗 [View the full repository](https://github.com/doughertylia-beep/sermon_project.git)<br>
 
-**Time-series ARIMAX Modeling for GDP***
+***Time-series ARIMAX Modeling for GDP***
 - Conducted comprehensive exploratory data analysis (EDA) on quarterly GDP, Consumer Confidence, and Residential Building Permits using time-series plots, ACF/PACF analyses, and seasonal decomposition
 - Applied first-differencing transformations to achieve stationarity and validated results using KPSS tests
 - Implemented a stepwise automated search to identify the optimal ARIMAX model for GDP forecasting, incorporating Residential Building Permits and Consumer Confidence Index as exogenous predictors
-- Evaluated model performance through residual diagnostics, including ACF/PACF inspections and the Ljung–Box test, to ensure model adequacy and independence of residuals
+- Evaluated model performance through residual diagnostics, including ACF/PACF inspections and the Ljung–Box test, to ensure model adequacy and independence of residuals<br>
 🔗 [View the full repository](https://github.com/doughertylia-beep/forecasting.git)
 
 ***Power BI Crime Report Dashboard***
