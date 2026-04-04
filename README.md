@@ -6,6 +6,13 @@
 - SQLite, Power BI, MS Excel, Python, R Studio, Stata
 
 ## Work Experience
+***Jr Account Executive @ Ternus Lending*** <br>
+- Manages Account Executive files in application stage, ensuring all required documentation is collected for timely progression<br>
+- Partners with the operations team to proactively resolve processing conditions, expediting the closing timeline<br>
+- Communicates daily with borrowers and brokers, prioritizing high-quality customer service<br>
+- Applies analytical skills to review financial documentation, background reports, and applications, proactively identifying potential risks or missing information<br>
+- Creates training and support material to foster success within the Jr. AE Team<br>
+
 ***Economics Research Assistant @ Davidson College*** <br>
 - Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive<br>
 - Applied NLP libraries for tokenization, lemmatization, and keyword extraction<br>
