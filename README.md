@@ -31,6 +31,24 @@
 <br> 
 
 ## Projects<br>
+
+***Loan Performance Reporting***<br>
+- Developed a monthly delinquency report for the Ternus loan portfolio by consolidating servicing data extracted from multiple platforms, providing a comprehensive view of portfolio performance<br>
+- Analyzed delinquencies across multiple aging categories, including 30-, 60-, and 90+ day delinquency, to identify portfolio trends and performance indicators <br>
+- Partnered with the SVP of Technology to launch the Sigma platform across the organization, developing and continuously refining the company’s first Sigma-based loan performance report<br>
+- Distributed performance reporting to investors and capital partners, providing transparency into outstanding loan performance and portfolio trends<br>
+  
+![Pic](assets/DQ60.pdf)
+
+
+***Sigma Cumulative Production Report***<br>
+- Developed a cumulative production report in Sigma to track and analyze loan production from inception through present<br>
+- Built monthly and quarterly production views, including geographic visualizations to identify production trends and performance across seasonal markets<br>
+- Incorporated interactive product-type controls, enabling users to segment and analyze production across different loan products<br>
+- Distributed to the executive team for key strategic decision-making processes<br>
+
+
+
 ***Idenitfying Rheotrical Obscuration in U.S. Presidential Speeches***<br>
 - Developed NLP pipelines incorporating LDA topic modeling, GloVe word embeddings, and K-means clustering to reveal thematic and semantic trends<br>
 🔗 [View the full repository](https://github.com/doughertylia-beep/thesis.git)<br>
