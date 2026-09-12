@@ -47,7 +47,7 @@
 - Incorporated interactive product-type controls, enabling users to segment and analyze production across different loan products<br>
 - Distributed to the executive team for key strategic decision-making processes<br>
 
-[![Pic](assets/Cumulative Production.pdf)]
+![Pic](assets/CumulativeProduction.pdf)
 
 ***Idenitfying Rheotrical Obscuration in U.S. Presidential Speeches***<br>
 - Developed NLP pipelines incorporating LDA topic modeling, GloVe word embeddings, and K-means clustering to reveal thematic and semantic trends<br>
