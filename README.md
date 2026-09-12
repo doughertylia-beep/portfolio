@@ -1,3 +1,4 @@
+
 # Data Portfolio
 ## Education 
 - B.S. Economics | Davidson College (August 2021 - May 2025)
@@ -37,8 +38,11 @@
 - Analyzed delinquencies across multiple aging categories, including 30-, 60-, and 90+ day delinquency, to identify portfolio trends and performance indicators <br>
 - Partnered with the SVP of Technology to launch the Sigma platform across the organization, developing and continuously refining the company’s first Sigma-based loan performance report<br>
 - Distributed performance reporting to investors and capital partners, providing transparency into outstanding loan performance and portfolio trends<br>
-  
+
+  <img width="628" height="568" alt="Screenshot 2026-09-12 at 10 48 12 AM 2" src="https://github.com/user-attachments/assets/b0cf98af-152b-418e-b1e1-ddf9dd9ff239" />
+
 [View DQ 60 Loan Performance Report](assets/DQ60.pdf)
+
 
 
 ***Sigma Cumulative Production Report***<br>
