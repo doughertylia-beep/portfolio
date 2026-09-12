@@ -38,7 +38,7 @@
 - Partnered with the SVP of Technology to launch the Sigma platform across the organization, developing and continuously refining the company’s first Sigma-based loan performance report<br>
 - Distributed performance reporting to investors and capital partners, providing transparency into outstanding loan performance and portfolio trends<br>
   
-![Pic](assets/DQ60.pdf)
+[View DQ 60 Loan Performance Report](assets/DQ60.pdf)
 
 
 ***Sigma Cumulative Production Report***<br>
@@ -47,7 +47,7 @@
 - Incorporated interactive product-type controls, enabling users to segment and analyze production across different loan products<br>
 - Distributed to the executive team for key strategic decision-making processes<br>
 
-![Pic](assets/CumulativeProduction.pdf)
+[View Full Cumulative Production Report (PDF)](assets/CumulativeProduction.pdf)
 
 ***Idenitfying Rheotrical Obscuration in U.S. Presidential Speeches***<br>
 - Developed NLP pipelines incorporating LDA topic modeling, GloVe word embeddings, and K-means clustering to reveal thematic and semantic trends<br>
