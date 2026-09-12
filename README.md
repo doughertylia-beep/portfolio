@@ -3,15 +3,16 @@
 - B.S. Economics | Davidson College (August 2021 - May 2025)
 
 ## Technical Skills 
-- SQLite, Power BI, MS Excel, Python, R Studio, Stata
+- SQLite, Power BI, MS Excel, Python, R Studio, Stata, SQL, Sigma
 
 ## Work Experience
-***Jr Account Executive @ Ternus Lending*** <br>
-- Manages Account Executive files in application stage, ensuring all required documentation is collected for timely progression<br>
-- Partners with the operations team to proactively resolve processing conditions, expediting the closing timeline<br>
-- Communicates daily with borrowers and brokers, prioritizing high-quality customer service<br>
-- Applies analytical skills to review financial documentation, background reports, and applications, proactively identifying potential risks or missing information<br>
-- Creates training and support material to foster success within the Jr. AE Team<br>
+***Capital Markets Analyst @ Ternus Lending*** <br>
+- Analyzes loan data for potential sales and financing, including whole loan sales, fractional sales / leveraged participation, and hold vs. sell recommendations based on capital efficiency<br>
+- ​Oversees daily operational workflow for loan sales, including bid tracking and comparisons, due diligence requests and data pulls, collateral shipment, and trade settlement<br>
+- Communicates regularly with Institutional buyers and individual investors for potential and active trading opportunities<br>
+- Coordinates with internal teams (Sales, Underwriting, Closing, Post-Closing, Servicing, Accounting) to escalate data issues quickly and keep execution timelines on track<br>
+- Performs ad-hoc data analysis for capital efficiency, warehouse line utilization, and loan performance<br>
+- Supports the Post-Closing department in executing allonges and assignments for our individual investors<br>
 
 ***Economics Research Assistant @ Davidson College*** <br>
 - Web-scrapped, cleaned, and normalized 180,000+ sermon transcripts from a public archive<br>
