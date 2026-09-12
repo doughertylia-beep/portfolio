@@ -1,5 +1,9 @@
 title: "Lia Dougherty"
-logo: "assets/Lia-Dougherty_square.webp"
+<img src="assets/Lia-Dougherty_square.webp" 
+     alt="Lia Dougherty" 
+     width="150" 
+     height="150"
+     style="border-radius: 50%; object-fit: cover;">
 description: >
-  Data enthusiast with 1+ year of experience in capital markets and financial services, with a strong focus on data analysis, reporting, and process optimization.
+  Data enthusiast with 1+ year of experience in capital markets and financial services, with a strong focus on data analysis & reporting
 theme: jekyll-theme-minimal
