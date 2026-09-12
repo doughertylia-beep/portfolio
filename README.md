@@ -1,4 +1,3 @@
-
 # Data Portfolio
 ## Education 
 - B.S. Economics | Davidson College (August 2021 - May 2025)
@@ -51,6 +50,8 @@
 - Incorporated interactive product-type controls, enabling users to segment and analyze production across different loan products<br>
 - Distributed to the executive team for key strategic decision-making processes<br>
 
+<img width="483" height="445" alt="Screenshot 2026-09-12 at 11 35 11 AM" src="https://github.com/user-attachments/assets/f54719a7-93b2-4359-8a1b-ad41c16f6ec1" />
+
 [View Full Cumulative Production Report (PDF)](assets/CumulativeProduction.pdf)
 
 ***Idenitfying Rheotrical Obscuration in U.S. Presidential Speeches***<br>
@@ -69,13 +70,5 @@
 - Evaluated model performance through residual diagnostics, including ACF/PACF inspections and the Ljung–Box test, to ensure model adequacy and independence of residuals<br>
 🔗 [View the full repository](https://github.com/doughertylia-beep/forecasting.git) <br>
 ![Pic](assets/GDP.png)
-
-***Power BI Crime Report Dashboard***
-- Designed and developed an interactive crime reporting dashboard in Power BI<br>
-- Incorporated dynamic filters, charts, and ArcGIS map to enable intuitive data exploration<br>
-- Applied Figma-inspired design principles to enhance usability and visual appeal<br>
-🔗 [View the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjc0NDg2ZmItMzcyNC00NjFiLTlmOTctN2FjMzM3NjRkNTFkIiwidCI6IjM1ZDg3NjNjLWQyYjEtNDIxMy1iNjI5LWY1ZGYwYWY5ZTNjMyIsImMiOjF9)<br>
-
-![Pic](assets/Screen%20Shot%202025-09-11%20at%205.30.25%20PM.png)
 
 
