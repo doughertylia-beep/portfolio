@@ -50,7 +50,7 @@
 - Incorporated interactive product-type controls, enabling users to segment and analyze production across different loan products<br>
 - Distributed to the executive team for key strategic decision-making processes<br>
 
-<img width="483" height="445" alt="Screenshot 2026-09-12 at 11 35 11 AM" src="https://github.com/user-attachments/assets/f54719a7-93b2-4359-8a1b-ad41c16f6ec1" />
+! [Pic](assets/Cumulative Production-1.png)
 
 [View Full Cumulative Production Report (PDF)](assets/CumulativeProduction.pdf)
 
