@@ -38,7 +38,7 @@
 - Partnered with the SVP of Technology to launch the Sigma platform across the organization, developing and continuously refining the company’s first Sigma-based loan performance report<br>
 - Distributed performance reporting to investors and capital partners, providing transparency into outstanding loan performance and portfolio trends<br>
 
-https://github.com/doughertylia-beep/portfolio/blob/9d888eac132d0e3efdaa7335ee434dd0a6619b3e/assets/Ternus%20Loan%20Performance%20Report_v2%20July%20copy-02.png
+![Pic](assets/Ternus Loan Performance Report_v2 July copy-02.png) <br>
 
 [View DQ 60 Loan Performance Report](assets/DQ60.pdf)
 
