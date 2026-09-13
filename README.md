@@ -32,9 +32,9 @@
 
 ## Projects<br>
 
-***Loan Performance Reporting***<br>
+***Sigma Loan Performance Report***<br>
 - Developed a monthly delinquency report for the Ternus loan portfolio by consolidating servicing data extracted from multiple platforms, providing a comprehensive view of portfolio performance<br>
-- Analyzed delinquencies across multiple aging categories, including 30-, 60-, and 90+ day delinquency, to identify portfolio trends and performance indicators <br>
+- Analyzed delinquencies across multiple aging categories, including 30+, 60+, and 90+ day delinquency, to identify portfolio trends and performance indicators <br>
 - Partnered with the SVP of Technology to launch the Sigma platform across the organization, developing and continuously refining the company’s first Sigma-based loan performance report<br>
 - Distributed performance reporting to investors and capital partners, providing transparency into outstanding loan performance and portfolio trends<br>
 
