@@ -38,10 +38,9 @@
 - Partnered with the SVP of Technology to launch the Sigma platform across the organization, developing and continuously refining the company’s first Sigma-based loan performance report<br>
 - Distributed performance reporting to investors and capital partners, providing transparency into outstanding loan performance and portfolio trends<br>
 
-![Pic] (assets/Ternus Loan Performance Report_v2 July copy-02.png) <br>
+![Pic](assets/TernusLoanPerformanceReport_v2Julycopy-02.png) <br>
 
 [View DQ 60 Loan Performance Report](assets/DQ60.pdf)
-
 
 
 ***Sigma Cumulative Production Report***<br>
@@ -50,9 +49,9 @@
 - Incorporated interactive product-type controls, enabling users to segment and analyze production across different loan products<br>
 - Distributed to the executive team for key strategic decision-making processes<br>
 
-! [Pic](assets/Cumulative Production-1.png)
+![Pic](assets/CumulativeProduction-1.png)
 
-[View Full Cumulative Production Report](assets/CumulativeProduction.pdf)
+[View Cumulative Production Report](assets/CumulativeProduction.pdf)
 
 ***Idenitfying Rheotrical Obscuration in U.S. Presidential Speeches***<br>
 - Developed NLP pipelines incorporating LDA topic modeling, GloVe word embeddings, and K-means clustering to reveal thematic and semantic trends<br>
